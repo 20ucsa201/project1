@@ -1,4 +1,4 @@
 Hello world
 Welcome to git
 Branch 1 created
-new branch
+newbranch
